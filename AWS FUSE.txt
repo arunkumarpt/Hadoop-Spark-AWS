@@ -1,0 +1,10 @@
+export AWSACCESSKEYID=AKIAI22XJJG2JBCEXQMA
+export AWSSECRETACCESSKEY=Moz1z61kEUAlBqvl0LCQwGjqVtOvUhvkmmu8yw9M
+
+ s3fs <Your bucket name > <Directory where you want to mount S3 >
+
+
+
+
+
+ 

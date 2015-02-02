@@ -1,0 +1,19 @@
+https://github.com/s3fs-fuse/s3fs-fuse/archive/master.zip
+sudo apt-get install automake
+
+
+
+sudo apt-get install build-essential
+sudo apt-get install libusb-dev
+
+sudo apt-get install libcurl4-openssl-dev.
+
+
+
+ Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?
+
+
+
+
+
+
